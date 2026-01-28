@@ -1,0 +1,2 @@
+voices/*.onnx filter=lfs diff=lfs merge=lfs -text
+voices/*.onnx.json filter=lfs diff=lfs merge=lfs -text
